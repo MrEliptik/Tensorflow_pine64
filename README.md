@@ -1,5 +1,8 @@
 # Tensorflow_pine64
 
+![tensorflow](https://tuatini.me/content/images/2017/09/TF_logo_no_shadow_1.png)
+
+
 ## Goal
 
 This repositery aims at giving you directions on how to compile Tensorflow from source on the pine64. The pine64 is a single board computer (sbc) with an AARCH64 architecture. This might extend to any board with this architecture but I can't confirm.
